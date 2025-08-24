@@ -17,10 +17,10 @@
 <div>
   <a href="eduardosolenomorizliborio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/eduardoliboriox" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-</div>
-
+  
   ![Snake animation](https://github.com/eduardoliboriox/eduardoliboriox/blob/output/github-contribution-grid-snake.svg)
 
-  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=eduardoliboriox&repo=eduardoliboriox&theme=react)](https://github.com/eduardoliboriox/eduardoliboriox)
+</div>
+
+
 
