@@ -20,5 +20,7 @@
 </div>
 
   ![snake animation](https://github.com/eduardoliboriox/eduardoliboriox/blob/output/github-contribution-grid-snake.svg)
-[![redame](https://github-readme-stats.vercel.app/api/pin/?username=eduardoliboriox&repo=eduardoliboriox&theme=react)](https://github.com/eduardoliboriox/eduardoliboriox)
+
+  
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=eduardoliboriox&repo=eduardoliboriox&theme=react)](https://github.com/eduardoliboriox/eduardoliboriox)
 
