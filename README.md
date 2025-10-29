@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas`**
 
-Trabalho com Dashboard Power BI e Planilhas em Excel. Atualmente, estou aprendendo programação.
+Trabalho com Dashboard Power BI e Planilhas em Excel. Atualmente, estou aprendendo programação. Aceito dicas e repositórios
 
 <div>
   <a href="mailto:eduardosolenomorizliborio@gmail.com" target="_blank">
