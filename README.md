@@ -2,7 +2,26 @@
 
 **`Analista de Sistemas`**
 
-Trabalho com Dashboard Power BI e Planilhas em Excel. Atualmente, estou aprendendo programação. Aceito dicas e repositórios
+# 👋 Olá! Eu sou o Eduardo
+
+Sou desenvolvedor focado em **soluções práticas**, automações e sistemas web.  
+Gosto de transformar problemas reais em aplicações simples, rápidas e úteis.
+
+Atualmente trabalho com:
+
+- 🐍 **Python** (Flask, automações, scripts e sistemas web)
+- 💻 **Frontend básico** (HTML, CSS, JS)
+- 🗄️ **SQLite / MySQL**
+- ☁️ **Deploy** com Render e outras plataformas gratuitas
+- ⚙️ Criação de sistemas que resolvem necessidades do dia a dia
+
+## 🚀 O que eu desenvolvo
+Trabalho principalmente em:
+
+- Sistemas de gestão e controle  
+- Ferramentas para produtividade  
+- Automação de cálculos e processos  
+- Simuladores e pequenos apps interativos  
 
 <div>
   <a href="mailto:eduardosolenomorizliborio@gmail.com" target="_blank">
