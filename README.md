@@ -1,8 +1,4 @@
-## 💻 Eduardo Libório 
-
 **`Analista de Sistemas`**
-
-# 👋 Olá! Eu sou o Eduardo
 
 Sou desenvolvedor focado em **soluções práticas**, automações e sistemas web.  
 Gosto de transformar problemas reais em aplicações simples, rápidas e úteis.
