@@ -21,9 +21,10 @@ Atualmente trabalho com / Currently working with:
 
 ## 🚀 O que eu desenvolvo / What I build
 
+```
 - Sistemas de gestão e controle  
 - Management and control systems  
-
+```
 - Ferramentas para produtividade  
 - Productivity tools  
 
