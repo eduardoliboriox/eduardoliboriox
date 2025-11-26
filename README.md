@@ -41,44 +41,10 @@ Trabalho principalmente em:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Edu-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-### 🤖 Linguagens e Tecnologias
-
-<div style="display: inline_block"><br>
-
-  <!-- Linguagens -->
-  <img align="center" alt="Edu-Python" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edu-JS" height="40" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-HTML" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <!-- Backend / Frameworks -->
-  <img align="center" alt="Edu-Flask" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-
-  <!-- Template Engine -->
-  <img align="center" alt="Edu-Jinja" height="40" width="40"
-       src="https://cdn.worldvectorlogo.com/logos/jinja.svg">
-
-  <!-- Banco de Dados -->
-  <img align="center" alt="Edu-SQLite" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Edu-MySQL" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-  <!-- Controle de versão -->
-  <img align="center" alt="Edu-Git" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Edu-GitHub" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
+  <img align="center" alt="Edu-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edu-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ---
