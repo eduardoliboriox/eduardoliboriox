@@ -25,15 +25,18 @@ Atualmente trabalho com / Currently working with:
 - Sistemas de gestão e controle  
 - Management and control systems  
 ```
+```
 - Ferramentas para produtividade  
-- Productivity tools  
-
+- Productivity tools
+```
+```
 - Automação de cálculos e processos  
 - Process and calculation automations  
-
+```
+```
 - Simuladores e pequenos apps interativos  
 - Simulators and small interactive apps  
-
+```
 ---
 
 <div>
