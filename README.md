@@ -36,9 +36,3 @@ Trabalho com Dashboard Power BI e Planilhas em Excel. Atualmente, estou aprenden
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoliboriox&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoliboriox&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoliboriox&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
