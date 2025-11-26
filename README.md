@@ -1,23 +1,39 @@
 **`Analista de Sistemas`**
 
+🇧🇷 **Português**  
 Sou desenvolvedor focado em **soluções práticas**, automações e sistemas web.  
 Gosto de transformar problemas reais em aplicações simples, rápidas e úteis.
 
-Atualmente trabalho com:
+🇺🇸 **English**  
+I am a developer focused on **practical solutions**, automations, and web systems.  
+I enjoy turning real-world problems into simple, fast, and useful applications.
 
-- 🐍 **Python** (Flask, automações, scripts e sistemas web)
+Atualmente trabalho com / Currently working with:
+
+- 🐍 **Python** (Flask, automations, scripts and web systems)
 - 💻 **Frontend básico** (HTML, CSS, JS)
 - 🗄️ **SQLite / MySQL**
-- ☁️ **Deploy** com Render e outras plataformas gratuitas
-- ⚙️ Criação de sistemas que resolvem necessidades do dia a dia
+- ☁️ **Deploy** using Render and other free platforms
+- ⚙️ Criação de sistemas que resolvem necessidades do dia a dia /  
+  Building systems that solve real needs
 
-## 🚀 O que eu desenvolvo
-Trabalho principalmente em:
+---
+
+## 🚀 O que eu desenvolvo / What I build
 
 - Sistemas de gestão e controle  
+- Management and control systems  
+
 - Ferramentas para produtividade  
+- Productivity tools  
+
 - Automação de cálculos e processos  
+- Process and calculation automations  
+
 - Simuladores e pequenos apps interativos  
+- Simulators and small interactive apps  
+
+---
 
 <div>
   <a href="mailto:eduardosolenomorizliborio@gmail.com" target="_blank">
@@ -33,23 +49,27 @@ Trabalho principalmente em:
 
 ---
 
-### 🤖 Linguagem e Tecnologias
+### 🤖 Linguagens e Tecnologias / Languages & Technologies
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Edu-Python" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edu-JS" height="40" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Edu-HTML" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edu-CSS" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ---
 
-### 🤖 Estatísticas
+### 📊 Estatísticas / Stats
 
 <div>
   <a href="https://github.com/eduardoliboriox">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoliboriox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoliboriox&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=eduardoliboriox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoliboriox&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
