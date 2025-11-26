@@ -40,6 +40,9 @@ Atualmente trabalho com / Currently working with:
 ---
 Follow ou Contact me 
 <div>
+  <a href="mailto:eduardosoleno@protonmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
   <a href="mailto:eduardosolenomorizliborio@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -50,6 +53,7 @@ Follow ou Contact me
     <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white">
   </a>
 </div>
+
 
 ---
 
