@@ -1,4 +1,4 @@
-**`Desenvolvedor Back-end (com habilidades Full Stack)**
+**`Desenvolvedor Back-end (com habilidades Full Stack)`**
 
 🇧🇷 **Português**  
 Sou desenvolvedor focado em **soluções práticas**, automações e sistemas web.  
