@@ -54,7 +54,7 @@ Follow ou Contact me
   </a>
 </div>
 
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; 
 ---
 
 ### 🤖 Linguagens e Tecnologias / Languages & Technologies
