@@ -54,7 +54,6 @@ Follow ou Contact me
   </a>
 </div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; 
 ---
 
 ### 🤖 Linguagens e Tecnologias / Languages & Technologies
@@ -63,6 +62,8 @@ Follow ou Contact me
   <img align="center" alt="Edu-Python" height="40" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edu-JS" height="40" width="40"
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-HTML" height="40" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
