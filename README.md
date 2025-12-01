@@ -59,7 +59,7 @@ Follow ou Contact me
 
 ---
 
-### 🤖 Linguagens e Tecnologias / Languages & Technologies
+### 🤖 Linguagens e Tecnologias / Languages & Technologies  # 
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
