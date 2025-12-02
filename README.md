@@ -1,4 +1,4 @@
-**Back-end Developer (Python)**
+**Back-end Developer**
 
 🇧🇷 **Português**  
 Sou desenvolvedor focado em **soluções práticas**, automações e sistemas web.  
