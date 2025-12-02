@@ -11,7 +11,7 @@ I enjoy turning real-world problems into simple, fast, and useful applications.
 Atualmente trabalho com / Currently working with:
 
 - 🐍 **Python** (Flask, automations, scripts and web systems)
-- 💻 **Frontend básico** (HTML, CSS, JS)
+- 💻 **Front-end básico** (HTML, CSS, JS)
 - 🗄️ **SQLite / MySQL**
 - ☁️ **Deploy** using Render and other free platforms
 - ⚙️ Criação de sistemas que resolvem necessidades do dia a dia /  
