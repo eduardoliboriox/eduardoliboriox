@@ -12,7 +12,7 @@ Atualmente trabalho com / Currently working with:
 
 - 🐍 **Python** (Flask, automations, scripts and web systems)
 - 💻 **Front-end básico** (HTML, CSS, JS)
-- 🗄️ **SQLite / MySQL**
+- 🗄️ **SQLite / MySQL / PostgreSQL**
 - ☁️ **Deploy** using Render and other free platforms
 - ⚙️ Criação de sistemas que resolvem necessidades do dia a dia /  
   Building systems that solve real needs
