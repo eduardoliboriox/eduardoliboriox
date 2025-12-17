@@ -1,7 +1,8 @@
 **Back-end Developer**
 
-<img align="right" alt="backend developer" width="400" 
-src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" alt="backend programming" width="400" 
+src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
 
 
 🇧🇷 **Português**  
