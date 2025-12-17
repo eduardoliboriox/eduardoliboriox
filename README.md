@@ -76,9 +76,6 @@ Follow ou Contact me
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoliboriox&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<img align="right" alt="backend logic" width="400" 
-src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
-
 <img align="right" alt="backend programming" width="400" 
 src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
