@@ -79,7 +79,7 @@ Follow ou Contact me
 <img align="right" alt="backend programming" width="400" 
 src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-<img align="right" alt="terminal backend" width="350" 
+<img alt="terminal backend" width="350" 
 src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
