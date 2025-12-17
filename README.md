@@ -79,4 +79,12 @@ Follow ou Contact me
 <img align="right" alt="terminal backend" width="350" 
 src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
 
+## Back-end Developer 🚀
+
+<img align="right" alt="terminal backend" width="350" 
+src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+
+Sou desenvolvedor back-end focado em APIs, bancos de dados e performance.
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
