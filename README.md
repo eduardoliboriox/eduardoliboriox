@@ -1,5 +1,9 @@
 **Back-end Developer**
 
+<img align="right" alt="backend developer" width="400" 
+src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
+
 🇧🇷 **Português**  
 Sou desenvolvedor focado em **soluções práticas**, automações e sistemas web.  
 Gosto de transformar problemas reais em aplicações simples, rápidas e úteis.
