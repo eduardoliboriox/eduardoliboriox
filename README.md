@@ -1,10 +1,5 @@
 **Back-end Developer**
 
-<img align="right" alt="backend programming" width="400" 
-src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
-
-
 🇧🇷 **Português**  
 Sou desenvolvedor focado em **soluções práticas**, automações e sistemas web.  
 Gosto de transformar problemas reais em aplicações simples, rápidas e úteis.
@@ -80,5 +75,8 @@ Follow ou Contact me
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoliboriox&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+<img align="right" alt="backend programming" width="400" 
+src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
