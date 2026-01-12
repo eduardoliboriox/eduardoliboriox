@@ -1,42 +1,43 @@
-**Back-end Developer**
 
-🇧🇷 **Português**  
-Sou desenvolvedor focado em **soluções práticas**, automações e sistemas web.  
-Gosto de transformar problemas reais em aplicações simples, rápidas e úteis.
+### 💻 Backend Developer | Python & Web Systems
 
-🇺🇸 **English**  
-I am a developer focused on **practical solutions**, automations, and web systems.  
-I enjoy turning real-world problems into simple, fast, and useful applications.
+🇧🇷 **Português**
+Sou desenvolvedor **backend** com foco em **sistemas web**, **APIs REST** e **arquitetura bem estruturada**.
+Trabalho principalmente com **Python e Flask**, desenvolvendo aplicações que vão do ambiente local para **produção em cloud**, utilizando **banco de dados relacional** e boas práticas de organização de código.
 
-Atualmente trabalho com / Currently working with:
-
-- 🐍 **Python** (Flask, automations, scripts and web systems)
-- 💻 **Front-end básico** (HTML, CSS, JS)
-- 🗄️ **SQLite / MySQL / PostgreSQL**
-- ☁️ **Deploy** using Render and other free platforms
-- ⚙️ Criação de sistemas que resolvem necessidades do dia a dia /  
-  Building systems that solve real needs
+🇺🇸 **English**
+I am a **backend developer** focused on **web systems**, **REST APIs**, and **well-structured architectures**.
+I mainly work with **Python and Flask**, building applications that go from local development to **cloud production**, using **relational databases** and clean project organization.
 
 ---
 
-## 🚀 O que eu desenvolvo / What I build
+### 🛠️ Stack atual / Current stack
 
-```
-- Sistemas de gestão e controle  
-- Management and control systems  
-```
-```
-- Ferramentas para produtividade  
-- Productivity tools
-```
-```
-- Automação de cálculos e processos  
-- Process and calculation automations  
-```
-```
-- Simuladores e pequenos apps interativos  
-- Simulators and small interactive apps  
-```
+* 🐍 **Python** (Flask, MVC, APIs REST)
+* 🗄️ **PostgreSQL** (produção) | SQLite (local)
+* 💻 **HTML, CSS, JavaScript** (frontend essencial)
+* ☁️ **Cloud deploy** (Railway, Render)
+* ⚙️ Sistemas web, organização de projetos e boas práticas
+
+---
+
+### 🚀 O que eu desenvolvo / What I build
+
+* Sistemas web de gestão e controle
+* Backend para aplicações web
+* APIs REST para consumo frontend
+* Ferramentas internas e automações
+* Sistemas pensados para uso real e crescimento
+
+---
+
+### 🧠 O que valorizo
+
+* Código limpo e organizado
+* Arquitetura simples e escalável
+* Resolver problemas reais antes de seguir modas
+* Evolução constante como desenvolvedor
+
 ---
 Follow ou Contact me 
 <div>
