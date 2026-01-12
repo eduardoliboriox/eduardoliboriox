@@ -1,5 +1,5 @@
 
-### 💻 Backend Developer | Python & Web Systems
+### 💻 Backend Developer | Python | Flask | PostgreSQL | Cloud
 
 🇧🇷 **Português**
 Sou desenvolvedor **backend** com foco em **sistemas web**, **APIs REST** e **arquitetura bem estruturada**.
