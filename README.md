@@ -53,9 +53,6 @@ Follow ou Contact me
   <a href="https://instagram.com/eduardoliboriox" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://signal.me/#p/+5592984059684" target="_blank">
-    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white">
-  </a>
 </div>
 
 ---
