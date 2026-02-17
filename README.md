@@ -55,6 +55,8 @@ I am a **backend developer focused on structured web systems**, with hands-on ex
 
 ## 🚀 O que eu desenvolvo / What I Build
 
+### 🇧🇷 Português
+
 * Sistemas web com regras de negócio reais
 * APIs REST organizadas e versionáveis
 * Sistemas com fluxo de aprovação multinível
@@ -62,15 +64,14 @@ I am a **backend developer focused on structured web systems**, with hands-on ex
 * Autenticação local + OAuth
 * Aplicações preparadas para produção
 
----
+### 🇺🇸 English
 
-## 🧠 O que eu valorizo
-
-* Separação clara de responsabilidades
-* Código legível e sustentável
-* Arquitetura simples antes de complexa
-* Evolução constante e melhoria incremental
-* Deploy seguro sem quebrar produção
+* Web systems with real-world business logic
+* Structured and versionable REST APIs
+* Multi-level approval workflow systems
+* Dashboards with metrics and performance indicators
+* Local authentication + OAuth integration
+* Production-ready applications
 
 ---
 Follow ou Contact me 
