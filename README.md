@@ -65,27 +65,6 @@ I build production-ready systems, prioritizing clean architecture, clarity, and 
 
 ---
 
-## 🚀 O que eu desenvolvo / What I Build
-
-### 🇧🇷 Português
-
-* Sistemas web com regras de negócio reais
-* APIs REST organizadas e versionáveis
-* Sistemas com fluxo de aprovação multinível
-* Dashboards com métricas e indicadores
-* Autenticação local + OAuth
-* Aplicações preparadas para produção
-
-### 🇺🇸 English
-
-* Web systems with real-world business logic
-* Structured and versionable REST APIs
-* Multi-level approval workflow systems
-* Dashboards with metrics and performance indicators
-* Local authentication + OAuth integration
-* Production-ready applications
-
----
 Follow ou Contact me 
 <div>
   <a href="https://instagram.com/eduardoliboriox" target="_blank">
