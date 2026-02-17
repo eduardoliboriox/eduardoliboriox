@@ -1,26 +1,26 @@
-### 💻 Backend Developer | Python | Flask | MVC | PostgreSQL | Cloud
+# 💻 Backend Developer | Python | Flask | MVC | PostgreSQL | Cloud
 
 ---
 
-🇧🇷 **Português**
+## 🇧🇷 Português
+
 Sou desenvolvedor **backend focado em sistemas web estruturados**, com experiência prática em:
 
-```
 * Arquitetura **MVC bem organizada**
 * Desenvolvimento de **APIs REST**
 * Aplicações com regras de negócio reais
 * Integração com **PostgreSQL**
 * Deploy em ambiente **cloud (Railway)**
-```
 
 Tenho consciência de que ainda estou evoluindo, mas hoje meu foco é **arquitetura sólida, clareza de código e aplicações que resolvem problemas reais.**
 
 ---
 
-🇺🇸 **English**
+## 🇺🇸 English
+
 I am a **backend developer focused on structured web systems**, with hands-on experience in:
 
-* Well-organized **MVC architecture**
+* Well-structured **MVC architecture**
 * **REST API** development
 * Real-world business logic implementation
 * **PostgreSQL** integration
@@ -28,31 +28,47 @@ I am a **backend developer focused on structured web systems**, with hands-on ex
 
 I am constantly improving, but my priority today is **solid architecture, clean code, and solving real business problems.**
 
+---
 
-## 🛠️ Stack atual / Current stack
+## 🛠️ Stack Atual / Current Stack
+
+### 🔹 Backend
 
 * 🐍 **Python (Flask)** — MVC, Blueprints, Service Layer
-* 🗄️ **PostgreSQL (produção)** | SQLite (local)
-* 🔐 **Flask-Login + OAuth (Google/GitHub)**
-* 🧠 Arquitetura em camadas: Routes → Services → Repositories
-* 💻 HTML, CSS, JavaScript (frontend essencial)
-* ☁️ Deploy em **Railway (produção e develop separados)**
+* 🧠 Arquitetura em camadas: **Routes → Services → Repositories**
+* 🔐 **Flask-Login + OAuth (Google / GitHub)**
+
+### 🔹 Banco de Dados
+
+* 🗄️ **PostgreSQL (produção)**
+* 🧪 SQLite (ambiente local)
+
+### 🔹 Frontend Essencial
+
+* 💻 HTML, CSS, JavaScript
+
+### 🔹 Infraestrutura
+
+* ☁️ Deploy em **Railway**
+
+  * Ambiente `production`
+  * Ambiente `develop`
 * ⚙️ Estrutura pensada para escalabilidade e manutenção
 
 ---
 
-## 🚀 O que eu desenvolvo / What I build
+## 🚀 O que eu desenvolvo / What I Build
 
-* Sistemas web com regra de negócio real
+* Sistemas web com regras de negócio reais
 * APIs REST organizadas e versionáveis
-* Sistemas com fluxo de aprovação
+* Sistemas com fluxo de aprovação multinível
 * Dashboards com métricas e indicadores
 * Autenticação local + OAuth
 * Aplicações preparadas para produção
 
 ---
 
-## 🧠 O que valorizo
+## 🧠 O que eu valorizo
 
 * Separação clara de responsabilidades
 * Código legível e sustentável
