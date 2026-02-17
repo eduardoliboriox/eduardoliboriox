@@ -1,5 +1,4 @@
-### 💻 Backend Developer | Python | Flask | MVC | PostgreSQL | Cloud
-
+## 💻 Backend Developer | Python | Flask | MVC | PostgreSQL | Cloud
 ---
 
 🇧🇷 **Português**
