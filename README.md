@@ -1,5 +1,7 @@
 ## 💻 Backend Developer | Python | Flask | MVC | PostgreSQL | Cloud
 
+---
+
 🇧🇷 **Português**
 Sou desenvolvedor **backend focado em sistemas web estruturados**, com experiência prática em:
 
