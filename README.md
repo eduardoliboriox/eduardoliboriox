@@ -4,25 +4,37 @@
 
 ## 🇧🇷 Português
 
-Sou desenvolvedor **backend focado em sistemas web estruturados**, com experiência prática em:
+Sou desenvolvedor **backend focado em sistemas web estruturados e aplicações orientadas a regras de negócio reais**.
+
+Tenho experiência prática em:
 
 * Arquitetura **MVC bem organizada**
-* Desenvolvimento de **APIs REST**
-* Aplicações com regras de negócio reais
+* Desenvolvimento de **APIs REST estruturadas e versionáveis**
+* Implementação de **fluxos de aprovação multinível**
+* Construção de **dashboards com métricas e indicadores**
+* Autenticação **local + OAuth (Google / GitHub)**
 * Integração com **PostgreSQL**
-* Deploy em ambiente **cloud (Railway)**
+* Deploy em ambiente **cloud (Railway)** com separação entre produção e desenvolvimento
+
+Desenvolvo sistemas preparados para uso real, priorizando organização, clareza e sustentabilidade do código.
 
 ---
 
 ## 🇺🇸 English
 
-I am a **backend developer focused on structured web systems**, with hands-on experience in:
+I am a **backend developer focused on structured web systems and real-world business logic applications**.
+
+I have hands-on experience with:
 
 * Well-structured **MVC architecture**
-* **REST API** development
-* Real-world business logic implementation
+* Building structured and versionable **REST APIs**
+* Implementing **multi-level approval workflows**
+* Developing **dashboards with metrics and performance indicators**
+* Local authentication + **OAuth integration (Google / GitHub)**
 * **PostgreSQL** integration
-* Cloud deployment (Railway)
+* Cloud deployment (Railway) with separate production and development environments
+
+I build production-ready systems, prioritizing clean architecture, clarity, and long-term maintainability.
 
 ---
 
