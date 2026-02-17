@@ -12,8 +12,6 @@ Sou desenvolvedor **backend focado em sistemas web estruturados**, com experiên
 * Integração com **PostgreSQL**
 * Deploy em ambiente **cloud (Railway)**
 
-Tenho consciência de que ainda estou evoluindo, mas hoje meu foco é **arquitetura sólida, clareza de código e aplicações que resolvem problemas reais.**
-
 ---
 
 ## 🇺🇸 English
@@ -25,8 +23,6 @@ I am a **backend developer focused on structured web systems**, with hands-on ex
 * Real-world business logic implementation
 * **PostgreSQL** integration
 * Cloud deployment (Railway)
-
-I am constantly improving, but my priority today is **solid architecture, clean code, and solving real business problems.**
 
 ---
 
