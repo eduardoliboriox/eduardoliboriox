@@ -1,7 +1,6 @@
 ## 💻 Backend Developer | Python | Flask | MVC | PostgreSQL | Cloud
 
 🇧🇷 **Português**
-
 Sou desenvolvedor **backend focado em sistemas web estruturados**, com experiência prática em:
 
 * Arquitetura **MVC bem organizada**
@@ -15,7 +14,6 @@ Tenho consciência de que ainda estou evoluindo, mas hoje meu foco é **arquitet
 ---
 
 🇺🇸 **English**
-
 I am a **backend developer focused on structured web systems**, with hands-on experience in:
 
 * Well-organized **MVC architecture**
@@ -26,7 +24,6 @@ I am a **backend developer focused on structured web systems**, with hands-on ex
 
 I am constantly improving, but my priority today is **solid architecture, clean code, and solving real business problems.**
 
----
 
 ## 🛠️ Stack atual / Current stack
 
