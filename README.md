@@ -1,42 +1,63 @@
-
-### 💻 Junior Backend Developer | MVC | Python | Flask | PostgreSQL | Cloud
+## 💻 Backend Developer | Python | Flask | MVC | PostgreSQL | Cloud
 
 🇧🇷 **Português**
-Sou desenvolvedor **backend** com foco em **sistemas web**, **APIs REST** e **arquitetura bem estruturada**.
-Trabalho principalmente com **Python e Flask**, desenvolvendo aplicações que vão do ambiente local para **produção em cloud**, utilizando **banco de dados relacional** e boas práticas de organização de código.
+
+Sou desenvolvedor **backend focado em sistemas web estruturados**, com experiência prática em:
+
+* Arquitetura **MVC bem organizada**
+* Desenvolvimento de **APIs REST**
+* Aplicações com regras de negócio reais
+* Integração com **PostgreSQL**
+* Deploy em ambiente **cloud (Railway)**
+
+Tenho consciência de que ainda estou evoluindo, mas hoje meu foco é **arquitetura sólida, clareza de código e aplicações que resolvem problemas reais.**
+
+---
 
 🇺🇸 **English**
-I am a **backend developer** focused on **web systems**, **REST APIs**, and **well-structured architectures**.
-I mainly work with **Python and Flask**, building applications that go from local development to **cloud production**, using **relational databases** and clean project organization.
+
+I am a **backend developer focused on structured web systems**, with hands-on experience in:
+
+* Well-organized **MVC architecture**
+* **REST API** development
+* Real-world business logic implementation
+* **PostgreSQL** integration
+* Cloud deployment (Railway)
+
+I am constantly improving, but my priority today is **solid architecture, clean code, and solving real business problems.**
 
 ---
 
-### 🛠️ Stack atual / Current stack
+## 🛠️ Stack atual / Current stack
 
-* 🐍 **Python** (Flask, MVC, APIs REST)
-* 🗄️ **PostgreSQL** (produção) | SQLite (local)
-* 💻 **HTML, CSS, JavaScript** (frontend essencial)
-* ☁️ **Cloud deploy** (Railway, Render)
-* ⚙️ Sistemas web, organização de projetos e boas práticas
-
----
-
-### 🚀 O que eu desenvolvo / What I build
-
-* Sistemas web de gestão e controle
-* Backend para aplicações web
-* APIs REST para consumo frontend
-* Ferramentas internas e automações
-* Sistemas pensados para uso real e crescimento
+* 🐍 **Python (Flask)** — MVC, Blueprints, Service Layer
+* 🗄️ **PostgreSQL (produção)** | SQLite (local)
+* 🔐 **Flask-Login + OAuth (Google/GitHub)**
+* 🧠 Arquitetura em camadas: Routes → Services → Repositories
+* 💻 HTML, CSS, JavaScript (frontend essencial)
+* ☁️ Deploy em **Railway (produção e develop separados)**
+* ⚙️ Estrutura pensada para escalabilidade e manutenção
 
 ---
 
-### 🧠 O que valorizo
+## 🚀 O que eu desenvolvo / What I build
 
-* Código limpo e organizado
-* Arquitetura simples e escalável
-* Resolver problemas reais antes de seguir modas
-* Evolução constante como desenvolvedor
+* Sistemas web com regra de negócio real
+* APIs REST organizadas e versionáveis
+* Sistemas com fluxo de aprovação
+* Dashboards com métricas e indicadores
+* Autenticação local + OAuth
+* Aplicações preparadas para produção
+
+---
+
+## 🧠 O que valorizo
+
+* Separação clara de responsabilidades
+* Código legível e sustentável
+* Arquitetura simples antes de complexa
+* Evolução constante e melhoria incremental
+* Deploy seguro sem quebrar produção
 
 ---
 Follow ou Contact me 
