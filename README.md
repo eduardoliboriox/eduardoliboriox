@@ -1,67 +1,99 @@
-## 💻 Backend Developer | Python | Flask | MVC | PostgreSQL | Cloud
+## 💻 FullStack Developer | Python | Flask | PostgreSQL | PWA | Cloud
 
 ---
 
 ## 🇧🇷 Português
 
-Sou desenvolvedor **backend focado em sistemas web estruturados e aplicações orientadas a regras de negócio reais**.
+Sou desenvolvedor **FullStack focado na construção de sistemas web estruturados, escaláveis e orientados a regras de negócio reais**.
 
-Tenho experiência prática em:
+Atuo principalmente com backend em Python/Flask, mas desenvolvo aplicações completas, incluindo interface responsiva, integração com banco de dados e deploy em ambiente cloud.
 
-* Arquitetura **MVC bem organizada**
+### 🚀 Experiência prática em:
+
+* Arquitetura **MVC organizada e modular**
 * Desenvolvimento de **APIs REST estruturadas e versionáveis**
 * Implementação de **fluxos de aprovação multinível**
-* Construção de **dashboards com métricas e indicadores**
+* Construção de **dashboards gerenciais com métricas e indicadores**
 * Autenticação **local + OAuth (Google / GitHub)**
-* Integração com **PostgreSQL**
-* Deploy em ambiente **cloud (Railway)** com separação entre produção e desenvolvimento
+* Integração com **PostgreSQL (Railway Cloud)**
+* Deploy com separação entre ambientes **production** e **develop**
+* Estruturação em camadas: **Routes → Services → Repositories**
+* Aplicação de princípios de **Clean Code e baixo acoplamento**
+* Implementação de **PWA (Progressive Web App)** com suporte a modo offline e instalação
 
-Desenvolvo sistemas preparados para uso real, priorizando organização, clareza e sustentabilidade do código.
+Atualmente utilizo **Railway** como infraestrutura principal, e estou em estudo e planejamento de migração para **AWS**, visando maior escalabilidade e arquitetura mais robusta.
+
+Desenvolvo sistemas preparados para uso real, priorizando organização, clareza arquitetural, manutenibilidade e visão de negócio.
 
 ---
 
 ## 🇺🇸 English
 
-I am a **backend developer focused on structured web systems and real-world business logic applications**.
+I am a **FullStack Developer focused on building structured, scalable web systems driven by real-world business logic**.
 
-I have hands-on experience with:
+My main expertise is backend development with Python/Flask, but I build complete applications including responsive UI, database integration, and cloud deployment.
 
-* Well-structured **MVC architecture**
-* Building structured and versionable **REST APIs**
+### 🚀 Hands-on experience with:
+
+* Well-structured and modular **MVC architecture**
+* Designing structured and versionable **REST APIs**
 * Implementing **multi-level approval workflows**
-* Developing **dashboards with metrics and performance indicators**
+* Developing **business dashboards with KPIs and metrics**
 * Local authentication + **OAuth integration (Google / GitHub)**
-* **PostgreSQL** integration
-* Cloud deployment (Railway) with separate production and development environments
+* **PostgreSQL (Railway Cloud)**
+* Deployment with separated **production and development environments**
+* Layered architecture: **Routes → Services → Repositories**
+* Clean Code principles and low-coupling design
+* **Progressive Web Applications (PWA)** with offline capability and installable experience
 
-I build production-ready systems, prioritizing clean architecture, clarity, and long-term maintainability.
+Currently using **Railway** as cloud infrastructure and studying migration strategies to **AWS** to enhance scalability and architectural maturity.
+
+I build production-ready systems focused on clarity, maintainability, and long-term sustainability.
 
 ---
 
-## 🛠️ Stack Atual / Current Stack
+# 🛠️ Current Stack
 
-### 🔹 Backend
+## 🔹 Backend
 
-* 🐍 **Python (Flask)** — MVC, Blueprints, Service Layer
-* 🧠 Arquitetura em camadas: **Routes → Services → Repositories**
-* 🔐 **Flask-Login + OAuth (Google / GitHub)**
+* 🐍 **Python (Flask)**
+* MVC Pattern + Blueprints
+* Service Layer Architecture
+* RESTful APIs
+* Authentication (Flask-Login + OAuth)
 
-### 🔹 Banco de Dados
+## 🔹 Database
 
-* 🗄️ **PostgreSQL (produção)**
-* 🧪 SQLite (ambiente local)
+* 🗄️ **PostgreSQL (Railway - Production)**
+* 🧪 SQLite (Local Development)
 
-### 🔹 Frontend Essencial
+## 🔹 Frontend
 
-* 💻 HTML, CSS, JavaScript
+* HTML
+* CSS
+* JavaScript
+* Responsive Design (Mobile-first mindset)
+* Progressive Web App (PWA)
 
-### 🔹 Infraestrutura
+## 🔹 Infrastructure
 
-* ☁️ Deploy em **Railway**
+* ☁️ Railway Cloud
 
-  * Ambiente `production`
-  * Ambiente `develop`
-* ⚙️ Estrutura pensada para escalabilidade e manutenção
+  * `production` environment
+  * `develop` environment
+* 📚 Studying and preparing migration to AWS
+* Structured architecture ready for scalability
+
+---
+
+# 🎯 Professional Focus
+
+* Clean Architecture
+* Business-driven systems
+* Cloud cost awareness
+* Scalable backend design
+* Progressive Web Applications
+* Continuous improvement and technical evolution
 
 ---
 
