@@ -70,12 +70,43 @@ Currently using **Railway** as cloud infrastructure and actively studying migrat
 
 > Real-world systems built with structured architecture and production-ready standards.
 
+---
+
+### 🏭 FactoryOps
+
 <a href="https://github.com/eduardoliboriox/factoryops-venttos-prod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoliboriox&repo=factoryops-venttos-prod&theme=dracula&bg_color=0D1117&border_color=4e9f3d&title_color=4e9f3d"/>
+  <img width="100%" src="factoryops.png" alt="FactoryOps Preview"/>
 </a>
+
+Industrial operations management platform with multi-level approval workflows, business dashboards, and structured MVC architecture.
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791)&nbsp;
+![Railway](https://img.shields.io/badge/Railway-0D1117?style=flat-square&logo=railway&logoColor=white)&nbsp;
+![OAuth](https://img.shields.io/badge/OAuth-0D1117?style=flat-square&logo=auth0&logoColor=EB5424)&nbsp;
+![PWA](https://img.shields.io/badge/PWA-0D1117?style=flat-square&logo=pwa&logoColor=5A0FC8)&nbsp;
+
+**[→ View Repository](https://github.com/eduardoliboriox/factoryops-venttos-prod)**
+
+---
+
+### 💸 Fluxara
+
 <a href="https://github.com/eduardoliboriox/fluxara-app-prod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoliboriox&repo=fluxara-app-prod&theme=dracula&bg_color=0D1117&border_color=4e9f3d&title_color=4e9f3d"/>
+  <img width="100%" src="fluxara.png" alt="Fluxara Preview"/>
 </a>
+
+Personal finance management app with real-time expense tracking, revenue dashboards, and KPI metrics. Clean and intuitive UI with secure authentication.
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791)&nbsp;
+![Railway](https://img.shields.io/badge/Railway-0D1117?style=flat-square&logo=railway&logoColor=white)&nbsp;
+![OAuth](https://img.shields.io/badge/OAuth-0D1117?style=flat-square&logo=auth0&logoColor=EB5424)&nbsp;
+![PWA](https://img.shields.io/badge/PWA-0D1117?style=flat-square&logo=pwa&logoColor=5A0FC8)&nbsp;
+
+**[→ View Repository](https://github.com/eduardoliboriox/fluxara-app-prod)**
 
 ---
 
